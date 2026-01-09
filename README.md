@@ -1,113 +1,130 @@
-<!-- Banner -->
+<!-- ================== ANIMATED NAME ================== -->
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Upasana+Thakur"
+  />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Upasana%20Thakur&fontSize=42&fontAlignY=35&desc=B.Tech%20Student%20|%20Web%20%26%20Data%20Enthusiast&descAlignY=55&animation=twinkling"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:EC4899&height=2&section=footer"
+  />
 </p>
-
-<h3 align="center">
-✨ B.Tech Student (2022–2026) | Rungta College of Engineering & Technology ✨
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Node.js+Learner;Data+Science+Enthusiast;Always+Learning+New+Tech"/>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech student at **Rungta College of Engineering & Technology**
-- 💻 Interested in **Web Development, Backend & Data Science**
-- 🚀 Building real-world projects with modern tools
-- 🌱 Focused on becoming industry-ready
+- 🎓 B.Tech Student (2022–2026)
+- 🏫 Rungta College of Engineering & Technology
+- 💻 Web Development & Data Science enthusiast
+- 🚀 Building scalable, real-world applications
+- 🌱 Continuous learner with industry focus
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+## 🔤 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=light"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
 </p>
 
 ---
 
-### 🌐 Web Development
+## 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55"/>
 </p>
 
 ---
 
-### 🗄️ Databases & Data Tools
+## 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
-  <br/><br/>
-  <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="50"/>
-  <img src="https://cdn.svgporn.com/logos/numpy.svg" width="50"/>
-  <img src="https://cdn.svgporn.com/logos/matplotlib.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55"/>
 </p>
 
 ---
 
-### 🤖 Data Science & ML
+## 📊 Data Science & Analytics
 <p align="center">
-  <img src="https://cdn.svgporn.com/logos/scikit-learn.svg" width="50"/>
-  <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50"/>
-  <img src="https://cdn.svgporn.com/logos/pytorch-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="55"/>
 </p>
 
 ---
 
-### 🧩 CMS & Tools
+## ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode&theme=light"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="55"/>
+</p>
+
+---
+
+## 🧩 Tools & CMS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Upasana-Thakur&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Upasana-Thakur&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Upasana-Thakur&theme=gotham&hide_border=true" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Upasana-Thakur&theme=gotham&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Thakur&theme=gotham&hide_border=true&layout=compact"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-Thakur&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Upasana-Thakur&theme=ambient_gradient&margin-w=10"/>
 </p>
 
 ---
 
-## 🚀 Projects
-- 🌐 Responsive Websites (HTML, CSS, JS)
-- ⚙️ Backend APIs using **Node.js**
-- 🧩 WordPress Dynamic Websites
-- 📊 Data Analysis projects using **Python**
-
----
-
-## 🌱 Currently Learning
-- Advanced **Node.js & Backend**
-- **Machine Learning**
-- Real-world Deployment
-
----
-
-## 📫 Connect With Me
+### ✍️ Random Dev Quote
 <p align="center">
-  <a href="mailto:thakuruppu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thakuruppu@gmail.com-red?style=for-the-badge"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ *Minimal. Clean. Premium. Built for Growth.*
+  <img src="https://visitcount.itsvg.in/api?id=Upasana-Thakur&icon=10&color=6"/>
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+⭐ Clean • Premium • Industry-Ready
 </p>
