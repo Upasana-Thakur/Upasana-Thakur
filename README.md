@@ -2,25 +2,13 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com
-      ?font=Orbitron
-      &weight=800
-      &size=48
-      &pause=1000
-      &color=58A6FF
-      &center=true
-      &vCenter=true
-      &width=1000
-      &lines=UPASANA+THAKUR"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=UPASANA+THAKUR"
   />
 </h1>
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api
-      ?type=rect
-      &color=0:58A6FF,50:8B5CF6,100:EC4899
-      &height=3"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:8B5CF6,100:EC4899&height=2&section=footer"
   />
 </p>
 
